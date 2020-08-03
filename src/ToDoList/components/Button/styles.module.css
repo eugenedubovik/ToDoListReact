@@ -1,0 +1,15 @@
+.button {
+    padding: 10px 28px;
+    font-size: 18px;
+    text-decoration: none;
+    font-style: italic;
+    margin-left: 25px;
+    
+    
+}
+.button:hover {
+    cursor: pointer;
+}
+.button:focus {
+    outline: 0;
+}

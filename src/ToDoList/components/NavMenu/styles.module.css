@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0px 0px 0px;
+    
+}
+
+.button {
+    color: rgb(39, 39, 231);
+    background-color:#fff;
+    text-decoration: none;
+    cursor: pointer;
+    border: 0;
+    padding: 45px 65px;
+    font-size: 22px;
+
+}
+.button:hover {
+    color: rgb(29, 29, 134);
+    text-decoration: underline;
+}
+.button:focus {
+    outline: 0;
+}
+.active {
+    color: green;
+}
